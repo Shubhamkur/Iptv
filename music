@@ -1,0 +1,155 @@
+
+
+
+
+
+{"list":[
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8", 
+"name":"9xm"},
+
+
+{"id":"https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8", 
+"name":"9xm"},
+
+
+
+
+{"id" :"https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8","name":"9x jalwa"}, 
+
+
+{"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8","name":"9x Tashan"}, 
+
+{"id" :"https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8","name":"9x Tashan"}, 
+
+
+{"id":"https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8", "name":"9x Jhakaas"}, 
+
+{"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8","name":"9x Jhakaas"}, 
+
+
+{"id":"https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/chunklist_w977236963_b264000_sleng.m3u8", 
+"name":"Ptc Music"},
+
+
+{"id":"https://cdn-2.pishow.tv/live/226/master.m3u8", 
+"name":"Music India"},
+
+{"id":"https://cdn-2.pishow.tv/live/415/master.m3u8", "name":"B4u Music"}, 
+
+{"id":"https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8", "name":"B4u Music"}, 
+
+
+{"id":"https://cdn-4.pishow.tv/live/1143/master.m3u8", "name":"Sangeet Bangla"}, 
+
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8", 
+"name":"Zoom"},
+
+{"id":"https://epiconvh.s.llnwi.net/showbox/master.m3u8", 
+"name":"Show Box"},
+
+{"id":"https://epiconvh.akamaized.net/live/showbox/master.m3u8", "name":"Show Box"}, 
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8", 
+"name":"Saga Music"},
+
+
+{"id":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8", 
+"name":"Saga Music Punjabi"},
+
+
+{"id":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8", 
+"name":"Saga Music Hariyanvi"},
+
+
+
+
+{"id":"https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8", 
+"name":"E24"},
+
+
+{"id":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8","name":"Yrf Music"}, 
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8","name":"Shemaroo Music"},
+
+{"id":"https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8", 
+"name":"Mastii"},
+
+{"id":"https://sabliveyupp.akamaized.net/mastii/playlist.m3u8", 
+"name":"Mastii"},
+
+
+{"id":"https://cc-cfvkgs92o8j3a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfvkgs92o8j3a/mastii/playlist.m3u8", 
+"name":"Mastii"},
+
+
+{"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8","name":"Pitaara"}, 
+
+
+{"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-balleballe-samsungin/playlist.m3u8","name":"Balle Balle"}, 
+
+
+{"id":"https://cdn-4.pishow.tv/live/987/master.m3u8", "name":"Balle Balle"}, 
+
+{"id":"https://mcncdndigital.com/balleballetv/index.m3u8", "name":"Balle Balle"}, 
+
+{"id":"httpshttps://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/f96eae13-a3cd-482e-8244-e218526322a1/0.m3u8", "name":"Balle Balle"}, 
+
+
+{"id":"https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8", 
+"name":"mh1 Music"},
+
+
+{"id":"https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8", 
+"name":"Desi Channel"},
+
+{"id":"https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8", 
+"name":"Apna Punjab"},
+
+
+{"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8","name":"Maibolin"}, 
+
+
+{"id":"https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8", 
+"name":"Joo Music"},
+
+{"id":"https://de1se01.v2beat.live/playlist.m3u8", "name":"V2 BITS"}, 
+
+
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xmin.stream/playlist.m3u8", "name":"9xm"}, 
+
+
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/e24in.stream/playlist.m3u8", "name":"E24"}, 
+
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8", "name":"Zoom"}, 
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8", "name":"9x jalwa"}, 
+
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mastiiiin.stream/playlist.m3u8", "name":"Mastii"}, 
+
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/showboxin.stream/playlist.m3u8", "name":"Showbox"}, 
+
+{"id":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8", "name":"Atn Music"}, 
+
+
+{"id":"https://cors-anywhere.ammoapps.com/fl5.moveonjoy.com/MTV_LIVE/index.m3u8", 
+"name":"MTV LIVE "}
+
+
+
+
+
+
+
+]} 
+
+
+
+
+
