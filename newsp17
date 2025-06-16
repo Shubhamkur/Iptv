@@ -66,7 +66,8 @@
 {"id":"https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8", 
 "name":"Aaj Tak"},
 
-
+{"id":"https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8", 
+"name":"Aaj Tak HD"},
 {"id":"https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8", 
 "name":"GNT"},
 
