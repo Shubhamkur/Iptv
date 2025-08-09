@@ -5,7 +5,7 @@
 
 
 
-{"list":[{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd","id1" :"ed068cf84f0640ccbc7c0e395c0a272e","id2":"bb722190f2bb446391020411a7d0828b","name":"ZEE TV"}, 
+[{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd","id1" :"ed068cf84f0640ccbc7c0e395c0a272e","id2":"bb722190f2bb446391020411a7d0828b","name":"ZEE TV"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd","id1":"26df86eeebb04d7fbc45c948f76e81fd","id2":"5f3a23f1a73c4c96ababce5fffe7b06b","name":"AND TV"}, 
 
@@ -37,7 +37,7 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd","id1":"ed197e7253c04946903f03bad9afac91","id2":"99ebb8683ea74b70a9fda1cbdc2cc1b4","name":"KOREAN DRAMAS"}
 
-]} 
+]
 
 
 
