@@ -1,10 +1,10 @@
 
 
-{"list":[{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd","id1":"86edec9e3b7d4042a4d4a1ca14f847ee","id2":"9def4315f0004019a3705bcb3cf30ca3","name":"ZOOM"}, 
+[{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd","id1":"86edec9e3b7d4042a4d4a1ca14f847ee","id2":"9def4315f0004019a3705bcb3cf30ca3","name":"ZOOM"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd","id1":"f0fb14eebe474a6ab74c8301d55a7224","id2":"f9f8b2e30704458b8db844a285ce32be","name":"ZING"}, 
 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd","id1":"2a457a6a58184234ba9bfa6916ce8013","id2":"ef3dd80894774430a33ecbc9108e91d7","name":"MTVBEATS"} 
-]} 
+]
 
