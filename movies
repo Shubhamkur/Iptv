@@ -11,12 +11,14 @@
 {"id":"https://cdn-4.pishow.tv/live/233/master.m3u8", "name":"Oscer Movies"}, 
 
 {"id":"https://cdn-2.pishow.tv/live/231/master.m3u8", "name":"Wow Cinema"}, 
-
+{"id":"https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8", 
+"name":"B4u Kadak"},
 
 {"id":"https://cdn-2.pishow.tv/live/227/master.m3u8", "name":"B4u Kadak"}, 
 
 {"id":"https://cdn-2.pishow.tv/live/419/master.m3u8", "name":"B4u Movies"}, 
-
+{"id":"https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8", 
+"name":"B4u Movies"},
 
 {"id":"https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8", "name":"B4u Movies"}, 
 
