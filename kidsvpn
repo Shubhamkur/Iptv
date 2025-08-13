@@ -2,26 +2,31 @@
 
 [
 
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_disney_junior/playlist.m3u8", "name":"Disney junior"}, 
+{"id":"http://88.212.15.19/live/test_disney_junior/playlist.m3u8", "name":"Disney junior"}, 
 
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_disney/playlist.m3u8", "name":"Disney Tv"}, 
-
-
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_minimax/playlist.m3u8", "name":"MiniMax"}, 
-
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_nicktoons/playlist.m3u8", "name":"Nicktoons"}, 
+{"id":"http://88.212.15.19/live/test_disney/playlist.m3u8", "name":"Disney Tv"}, 
 
 
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_nick_jr/playlist.m3u8", "name":"Nick JR"}, 
+{"id":"http://88.212.15.19/live/test_minimax/playlist.m3u8", "name":"MiniMax"}, 
 
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8", "name":"Nickelodeon"}, 
-
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/NickJr/index.m3u8", "name":"Nick JR"},
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/DisneyXD/index.m3u8", "name":"Disney XD"},
-{"id":"https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/Disney/index.m3u8", "name":"Disney Tv"}
+{"id":"http://88.212.15.19/live/test_nicktoons/playlist.m3u8", "name":"Nicktoons"}, 
 
 
+{"id":"http://88.212.15.19/live/test_nick_jr/playlist.m3u8", "name":"Nick JR"}, 
 
+{"id":"http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8", "name":"Nickelodeon"}
+
+{"id":"http://212.102.60.231/DISNEY_XD/index.m3u8", 
+"name":"Disney XD"},
+{"id":"http://ares.mnet.mk/hls/mnet-kids.m3u8", 
+"name":"Mnet Kids"},
+{"id":"http://143.244.60.30/NICKELODEON/index.m3u8", 
+"name":"Nickelodeon"},
+{"id":"https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch70/index.m3u8", 
+"name":"Nick Toon"},
+
+{"id":"http://iptv.prosto.tv:7000/ch72/index.m3u8", 
+"name":"Nick Junior"}
 
 ]
 
