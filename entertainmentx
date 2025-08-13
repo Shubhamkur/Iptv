@@ -1,2 +1,28 @@
 [{"id":"https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8", 
-"name":"AND Tv"}] 
+"name":"AND Tv"}, 
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusau/master/chunklist.m3u8", 
+"name":"STAR PLUS"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusuk/master/chunklist.m3u8", 
+"name":"UTSAV PLUS"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokuk/master/chunklist.m3u8", 
+"name":"UTSAV BHARAT"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokau/master/chunklist.m3u8", 
+"name":"STAR BHARAT"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8", 
+"name":"COLORS UK"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8", 
+"name":"COLORS AU"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyuk/master/chunklist.m3u8", 
+"name":"COLORS RISHTEY UK"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyau/master/chunklist.m3u8", 
+"name":"COLORS RISHTEY AU"},
+
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8", 
+"name":"STAR Jalsha"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8", 
+"name":"Colors Bangla"},
+
+{"id":"https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8", 
+"name":"Zee Bangla"}] 
