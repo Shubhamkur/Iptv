@@ -6,11 +6,7 @@
 
 [
 
-{"id":"https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch70/index.m3u8", 
-"name":"Nick Toon"},
 
-{"id":"https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch72/index.m3u8", 
-"name":"Nick Junior"},
 
 
 {"id":"https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8", "name":"Animax"}, 
@@ -36,18 +32,15 @@
 
 {"id" :"https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8","name":"Rongeentv"}, 
 
-{"id":"http://143.244.60.30/NICKELODEON/index.m3u8", 
-"name":"Nickelodeon"},
 
-{"id":"http://212.102.60.231/DISNEY_XD/index.m3u8", 
-"name":"Disney XD"},
 
-{"id":"http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", "name":"Disney XD"}, 
 
-{"id":"http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8", "name":"DISNEY JR"}, 
 
-{"id":"http://ares.mnet.mk/hls/mnet-kids.m3u8", 
-"name":"Mnet Kids"},
+{"id":"https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", "name":"Disney XD"}, 
+
+{"id":"https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8", "name":"DISNEY JR"}, 
+
+
 
 {"id":"https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8?", 
 "name":"Gubbare"},
