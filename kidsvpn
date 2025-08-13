@@ -22,7 +22,7 @@
 "name":"Mnet Kids"},
 {"id":"http://143.244.60.30/NICKELODEON/index.m3u8", 
 "name":"Nickelodeon"},
-{"id":"https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch70/index.m3u8", 
+{"id":"http://iptv.prosto.tv:7000/ch70/index.m3u8", 
 "name":"Nick Toon"},
 
 {"id":"http://iptv.prosto.tv:7000/ch72/index.m3u8", 
