@@ -31,7 +31,7 @@
 {"id":"https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8", 
 "name":"Abp Ananda"},
 
-{"id" :"https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8","name":"BBC America"}, 
+{"id":"https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8","name":"BBC America"}, 
 
 {"id":"https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8", 
 "name":"BBC News"}, 
@@ -174,7 +174,7 @@
 {"id":"https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8", "name":"Tv9 Bhartwarsh"}, 
 
 
-{"id" :"https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8","name":"Tv9 Bangla"}, 
+{"id":"https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8","name":"Tv9 Bangla"}, 
 
 
 {"id":"https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8", "name":"Times Now"}, 
@@ -203,9 +203,7 @@
 {"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8", 
 "name":"Zee hindustan"},
 
-{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-", 
-"name":"Zee haryana"},
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8","name":"Zee haryana"},
 
 
 {"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8", 
@@ -215,8 +213,7 @@
 "name":"Zee Mp"},
 
 {"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8", 
-"name":"Zee Delhi"}
-] 
+"name":"Zee Delhi"}] 
 
 
 
