@@ -185,14 +185,20 @@
 
 {"id":"https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8", "name":"Zee Bharat"}
 
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8", 
+"name":"Zee hindustan"},
+
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
+", 
+"name":"Zee haryana"},
 
 
-
-
-
-
-
-
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8", 
+"name":"Zee Rajasthan"},
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8", 
+"name":"Zee Mp"},
+{"id":"https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8", 
+"name":"Zee Delhi"}
 ] 
 
 
