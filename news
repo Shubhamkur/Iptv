@@ -25,7 +25,7 @@
 
 {"id":"https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8", 
 "name":"ABP ANANDA"},
-
+{"id":"https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8", "name":"ABP Ananda"}, 
 
 {"id":"https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8", 
 "name":"Abp Ananda"},
@@ -62,15 +62,20 @@
 "name":"Dy365"},
 
 {"id":"https://damso2e2yhynu.cloudfront.net/master.m3u8", "name":"ET Now"}, 
+{"id":"https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8", "name":"ET Now Swdes"}, 
+{"id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8", "name":"FirstIndiaNews"}, 
+
+{"id":"https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8", 
+"name":"GNT"},
 
 
 
-{"id":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
+
+{"id":"https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8", "name":"India News MP"}, 
+
+{"id":"https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8", "name":"India News Rajasthan"}, 
 
 
-
-
-{"id":"https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8", "name":"ABP Ananda"}, 
 
 {"id":"https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8", 
 "name":"India Tv"},
@@ -79,27 +84,22 @@
 {"id":"https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8", 
 "name":"India Tv"},
 
-
+{"id":"https://livetv.ibc24.in/livestream.m3u8", "name":"IBC 24"},
 {"id":"https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8", 
 "name":"INDIA TODAY"},
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8", 
 "name":"India Today"},
 
 {"id":"https://feeds.intoday.in/hltapps/api/master.m3u8", "name":"INDIA TODAY"}, 
+{"id":"https://live.gulistannews.in/hls/jk.m3u8", "name":"JK News"}, 
+{"id":"https://knews.livebox.co.in/youtubehls/live.m3u8", "name":"K News"}, 
+{"id":"https://playhls.media.nic.in/live/lstv-360p/index.m3u8", 
+"name":"Lstv"},
+{"id":"https://livelegitpro.in/livingindia/livingindia/index.fmp4.m3u8", "name":"Living India"},
+{"id":"https://d179muqh6u5263.cloudfront.net/master.m3u8", "name":"Mirror Now"}, 
 
-
-
-
-{"id":"https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8", 
-"name":"GNT"},
-
-{"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8", "name":"Republic Bharat"}, 
-
-{"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8", "name":"Republic Tv"}, 
-
-{"id":"https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8", 
-"name":"Republic Bangla"}, 
-
+{"id":"https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8", "name":"Mh1 News"},
+{"id":"https://vidcdn.vidgyor.com/n
 
 
 {"id":"https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8", "name":"Ndtv India"},
@@ -135,7 +135,23 @@
 {"id":"https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8", "name":"News 18 Urdu"}, 
 
 
+ews24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
+{"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8", "name":"Republic Bharat"}, 
 
+{"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8", "name":"Republic Tv"}, 
+{"id":"https://playhls.media.nic.in/live/rstv-360p/index.m3u8", "name":"RsTv"}, 
+{"id":"https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8", 
+"name":"RT NEWS"},
+{"id":"https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8", 
+"name":"Republic Bangla"}, 
+{"id":"https://cdn-2.pishow.tv/live/477/master.m3u8", "name":"Swaraj Express"}, 
+
+{"id":"https://cdn-2.pishow.tv/live/465/master.m3u8", "name":"Swadesh News"}, 
+
+{"id":"https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8", "name":"Sudarshan News"},
+
+{"id":"https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8", "name":"Sudarshan Tv"}, 
+{"id":"https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8", "name":"Sadhana News"},
 {"id":"https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8", "name":"Tv9 Bhartwarsh"}, 
 
 
@@ -143,11 +159,8 @@
 
 
 
-{"id":"https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8", "name":"India News MP"}, 
 
-{"id":"https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8", "name":"India News Rajasthan"}, 
 
-{"id":"https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8", "name":"ET Now Swdes"}, 
 
 {"id":"https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8", "name":"Times Now"}, 
 
@@ -158,7 +171,7 @@
 
 
 
-{"id":"https://d179muqh6u5263.cloudfront.net/master.m3u8", "name":"Mirror Now"}, 
+
 
 
 
@@ -168,44 +181,32 @@
 
 
 
-{"id":"https://cdn-2.pishow.tv/live/477/master.m3u8", "name":"Swaraj Express"}, 
-
-{"id":"https://cdn-2.pishow.tv/live/465/master.m3u8", "name":"Swadesh News"}, 
-
-{"id":"https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8", "name":"Sudarshan News"},
-
-{"id":"https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8", "name":"Sudarshan Tv"}, 
-
-{"id":"https://knews.livebox.co.in/youtubehls/live.m3u8", "name":"K News"}, 
 
 
-{"id":"https://playhls.media.nic.in/live/lstv-360p/index.m3u8", 
-"name":"Lstv"},
 
-{"id":"https://playhls.media.nic.in/live/rstv-360p/index.m3u8", "name":"RsTv"}, 
 
-{"id":"https://livelegitpro.in/livingindia/livingindia/index.fmp4.m3u8", "name":"Living India"},
 
-{"id":"https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8", "name":"Sadhana News"}, 
 
-{"id":"https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8", "name":"Mh1 News"}, 
+
+
+
 
  
 
-{"id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8", "name":"FirstIndiaNews"}, 
+ 
 
-{"id":"https://livetv.ibc24.in/livestream.m3u8", "name":"IBC 24"}, 
-
-{"id":"https://live.gulistannews.in/hls/jk.m3u8", "name":"JK News"}, 
+ 
 
 
-
+ 
 
 
 
 
-{"id":"https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8", 
-"name":"RT NEWS"},
+
+
+
+
 
 
 
