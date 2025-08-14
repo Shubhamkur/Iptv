@@ -3,29 +3,18 @@
 
 
 
-[
+[{"id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8", 
+"name":"1st India News"},
 
-{"id":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
+{"id":"https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8", 
+"name":"Aaj Tak"},
 
-{"id":"https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8", "name":"Zee News"}, 
 
+{"id":"https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8", 
+"name":"Aaj Tak"},
 
-{"id":"https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8", "name":"Zee News Bh Jh"}, 
-
-{"id":"https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8", "name":"Zee Bihar jh"}, 
-
-{"id":"https://dwby15d04agvq.cloudfront.net/index_5.m3u8", "name":"Zee Business"}, 
-
-{"id":"https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8", "name":"Zee Haryana"}, 
-
-{"id":"https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8", "name":"Zee Rajasthan"}, 
-
-{"id":"https://duw35ict5q7th.cloudfront.net/index_3.m3u8", "name":"Zee Up"}, 
-
-{"id":"https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8", "name":"Zee Delhi"}, 
-
-{"id":"https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8", "name":"Zee Bharat"}, 
-
+{"id":"https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8", 
+"name":"Aaj Tak HD"},
 
 {"id":"https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8", "name":"ABP NEWS"}, 
 
@@ -40,6 +29,46 @@
 
 {"id":"https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8", 
 "name":"Abp Ananda"},
+{"id" :"https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8","name":"BBC America"}, 
+
+{"id":"https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8", 
+"name":"BBC News"}, 
+
+
+{"id":"https://legitpro.co.in/bharat24live/bharat24live/tracks-v2a1/mono.m3u8", "name":"Bharat 24"}, 
+{"id":"https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8", "name":"Bharat Samachar"},
+{"id":"https://stream1.livebox.co.in/VCAREhls/live.m3u8", "name":"Bharat Express"}, 
+
+{"id":"https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8", "name":"Bharat Samachar"},
+{"id":"https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8", "name":"CNN"}, 
+
+{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8", "name":"CNN NEWS 18"}, 
+
+{"id":"https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8", 
+"name":"CNN NEWS 18"},
+{"id":"https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8", "name":"CNN"}, 
+
+{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8", "name":"Cnbc TV 18"}, 
+
+{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8", "name":"Cnbc Awaaz"}, 
+{"id":"https://cdn-2.pishow.tv/live/425/master.m3u8", "name":"CVR News"}, 
+
+
+
+{"id":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8", 
+"name":"DW Tv"},
+{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8", "name":"Cnbc Bazaar"}, 
+{"id":"https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8", 
+"name":"Dy365"},
+
+{"id":"https://damso2e2yhynu.cloudfront.net/master.m3u8", "name":"ET Now"}, 
+
+
+
+{"id":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
+
+
+
 
 {"id":"https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8", "name":"ABP Ananda"}, 
 
@@ -60,15 +89,7 @@
 
 
 
-{"id":"https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8", 
-"name":"Aaj Tak"},
 
-
-{"id":"https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8", 
-"name":"Aaj Tak"},
-
-{"id":"https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8", 
-"name":"Aaj Tak HD"},
 {"id":"https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8", 
 "name":"GNT"},
 
@@ -113,16 +134,7 @@
 
 {"id":"https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8", "name":"News 18 Urdu"}, 
 
-{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8", "name":"CNN NEWS 18"}, 
 
-{"id":"https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8", 
-"name":"CNN NEWS 18"},
-
-{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8", "name":"Cnbc TV 18"}, 
-
-{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8", "name":"Cnbc Awaaz"}, 
-
-{"id":"https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8", "name":"Cnbc Bazaar"}, 
 
 {"id":"https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8", "name":"Tv9 Bhartwarsh"}, 
 
@@ -144,27 +156,16 @@
 
 
 
-{"id":"https://damso2e2yhynu.cloudfront.net/master.m3u8", "name":"ET Now"}, 
+
 
 {"id":"https://d179muqh6u5263.cloudfront.net/master.m3u8", "name":"Mirror Now"}, 
 
 
 
-{"id" :"https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8","name":"BBC America"}, 
-
-{"id":"https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8", 
-"name":"BBC News"}, 
+ 
 
 
-{"id":"https://legitpro.co.in/bharat24live/bharat24live/tracks-v2a1/mono.m3u8", "name":"Bharat 24"}, 
 
-{"id":"https://stream1.livebox.co.in/VCAREhls/live.m3u8", "name":"Bharat Express"}, 
-
-{"id":"https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8", "name":"Bharat Samachar"}, 
-
-
-{"id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8", 
-"name":"1st India News"},
 
 
 {"id":"https://cdn-2.pishow.tv/live/477/master.m3u8", "name":"Swaraj Express"}, 
@@ -189,7 +190,7 @@
 
 {"id":"https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8", "name":"Mh1 News"}, 
 
-{"id":"https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8", "name":"Bharat Samachar"}, 
+ 
 
 {"id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8", "name":"FirstIndiaNews"}, 
 
@@ -198,23 +199,34 @@
 {"id":"https://live.gulistannews.in/hls/jk.m3u8", "name":"JK News"}, 
 
 
-{"id":"https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8", 
-"name":"Dy365"},
-
-
-{"id":"https://cdn-2.pishow.tv/live/425/master.m3u8", "name":"CVR News"}, 
 
 
 
-{"id":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8", 
-"name":"DW Tv"},
+
 
 {"id":"https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8", 
 "name":"RT NEWS"},
 
-{"id":"https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8", "name":"CNN"}
 
 
+{"id":"https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8", "name":"Zee News"}, 
+
+
+{"id":"https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8", "name":"Zee News Bh Jh"}, 
+
+{"id":"https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8", "name":"Zee Bihar jh"}, 
+
+{"id":"https://dwby15d04agvq.cloudfront.net/index_5.m3u8", "name":"Zee Business"}, 
+
+{"id":"https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8", "name":"Zee Haryana"}, 
+
+{"id":"https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8", "name":"Zee Rajasthan"}, 
+
+{"id":"https://duw35ict5q7th.cloudfront.net/index_3.m3u8", "name":"Zee Up"}, 
+
+{"id":"https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8", "name":"Zee Delhi"}, 
+
+{"id":"https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8", "name":"Zee Bharat"}, 
 
 
 
