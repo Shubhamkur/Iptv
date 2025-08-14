@@ -99,7 +99,7 @@
 {"id":"https://d179muqh6u5263.cloudfront.net/master.m3u8", "name":"Mirror Now"}, 
 
 {"id":"https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8", "name":"Mh1 News"},
-{"id":"https://vidcdn.vidgyor.com/n
+
 
 
 {"id":"https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8", "name":"Ndtv India"},
@@ -135,7 +135,7 @@
 {"id":"https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8", "name":"News 18 Urdu"}, 
 
 
-ews24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
+{"id":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8", "name":"News 24"}, 
 {"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8", "name":"Republic Bharat"}, 
 
 {"id":"https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8", "name":"Republic Tv"}, 
@@ -165,50 +165,6 @@ ews24-origin/liveabr/playlist.m3u8", "name":"News 24"},
 {"id":"https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8", "name":"Times Now"}, 
 
 {"id":"https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8", "name":"Times NowBhart"}, 
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
 
 {"id":"https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8", "name":"Zee News"}, 
 
