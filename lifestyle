@@ -46,17 +46,17 @@
 {"id":"https://wildearth-roku.amagi.tv/masterR720P.m3u8", 
 "name":"Wild Earth"}, 
 {"id":"https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8", 
-"name":""},
+"name":"Fashion tv 1"},
 {"id":"https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist_960x540_2000k.m3u8", 
-"name":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8"},
-{"id":"", 
-"name":""},
+"name":"Fashion tv 2"},
+{"id":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8", 
+"name":"Fashion tv 3"},
 {"id":"https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8", 
-"name":""},
+"name":"Fashion tv 4"},
 {"id":"https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8", 
-"name":""},
+"name":"Fashion tv 5"},
 {"id":"https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8", 
-"name":""}
+"name":"Fashion tv 6"}
 ]
 
 
