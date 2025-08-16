@@ -6,15 +6,11 @@
 
 
 [
-{"id":"https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8", 
-"name":"Pitaara Comedy"},
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8", 
+"name":"Bollywood Classic"},
 
-{"id":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8", 
-"name":"Movies Action"},
-
-{"id":"https://cdn-4.pishow.tv/live/233/master.m3u8", "name":"Oscer Movies"}, 
-
-{"id":"https://cdn-2.pishow.tv/live/231/master.m3u8", "name":"Wow Cinema"}, 
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8", 
+"name":"Bollywood HD"},
 
 {"id":"https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8", 
 "name":"B4u Kadak"},
@@ -40,13 +36,13 @@
 {"id":"https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8", 
 "name":"B4u Bhojpuri"},
 
-{"id":"https://cdn-2.pishow.tv/live/228/master.m3u8", "name":"Manoranjan Movies"}, 
-
-{"id":"https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8", 
+ {"id":"https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8", 
 "name":"Bhojpuri Cinema"},
 
-{"id":"https://epiconvh.s.llnwi.net/filamchi/master.m3u8", 
-"name":"Filamchi"},
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8","name":"Cinelife"},
+
+{"id":"https://cdn-4.pishow.tv/live/241/master.m3u8", "name":"Enter 10 Bangla"}, 
 
 {"id":"https://cdn-2.pishow.tv/live/1461/1461_0.m3u8", 
 "name":"Goldmines 1"},
@@ -55,53 +51,46 @@
 {"id":"https://cdn-2.pishow.tv/live/1460/1460_1.m3u8", 
 "name":"Goldmines 2"},
 
-{"id":"https://cdn-2.pishow.tv/live/1459/1459_2.m3u8", 
-"name":"Goldmines 3"},
-{"id":"https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8", 
-"name":"Zee Bangla Cinema"}, 
 
-{"id":"https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8", 
-"name":"Movies House"},
-
-{"id":"https://idvd.multitvsolution.com/idvo/mahamovie.m3u8", 
-"name":"Maha Movies"},
-
-{"id":"https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8", 
-"name":"Bflix Movies"},
-
-{"id":"https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8", 
-"name":"Shemaroo Bollywood"},
-
+{"id":"https://cdn-2.pishow.tv/live/1459/1459_2.m3u8", "name":"Goldmines 3"},
 
 {"id":"http://alvetv.com/moviebanglatv/8080/index.m3u8", 
 "name":"Movies Bangla"},
+
+{"id":"https://cdn-2.pishow.tv/live/228/master.m3u8", "name":"Manoranjan Movies"},
 
 {"id":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8", 
 "name":"Movies Action"},
 
 
-{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8","name":"Cinelife"},
-
 {"id":"https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
 "name":"Movie Sphereuk"}, 
 
-{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8", 
-"name":"Bollywood Classic"},
+{"id":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8", 
+"name":"Movies Action"},
 
-{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8", 
-"name":"Bollywood HD"},
-
-{"id":"http://alvetv.com/moviebanglatv/8080/index.m3u8", 
-"name":"Movies Bangla"},
+{"id":"https://cdn-4.pishow.tv/live/233/master.m3u8", "name":"Oscer Movies"}, 
 
 {"id":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8", 
 "name":"PLUS BANGLA"},
 
-{"id":"https://cdn-4.pishow.tv/live/241/master.m3u8", "name":"Enter 10 Bangla"}, 
-{"id":"https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8", 
-"name":"Rdc Movies"},
+{"id":"https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8", 
+"name":"Pitaara Comedy"},
+
+{"id":"https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8", 
+"name":"Shemaroo Bollywood"},
+
 {"id":"https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8", 
-"name":"The Movie Club"}
+"name":"The Movie Club"}, 
+
+{"id":"https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8", 
+"name":"Rdc Movies"}, 
+
+{"id":"https://cdn-2.pishow.tv/live/231/master.m3u8", "name":"Wow Cinema"}, 
+
+
+{"id":"https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8", 
+"name":"Zee Bangla Cinema"}
 ]
 
 
