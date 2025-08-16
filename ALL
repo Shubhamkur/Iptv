@@ -149,52 +149,28 @@ body{width:100%;background:PapayaWhip;margin:0}
 
 
 
-<div class="tab-content">  <div class="tab-pane active" id="zero">	<main id="app0" ></main></div>    <div class="tab-pane" id="one">	<main id="app1" ></main></div>    <div class="tab-pane" id="two"> 	<main id="app2"></main> </div> 	 <div class="tab-pane" id="three"> <main id="app3"></main> </div>    <div class="tab-pane" id="four">  <main id="app4"></main></div>   <div class="tab-pane" id="five">  <main id="app5"></main></div>     <div class="tab-pane" id="six">  <main id="app6"></main></div></div>
+<div class="tab-content">  <div class="tab-pane active" id="zero">	<main id="app0" ></main></div>    <div class="tab-pane" id="one">	<main id="app1" ></main></div>    <div class="tab-pane" id="two"> 	<main id="app2"></main> </div> 	 <div class="tab-pane" id="three"> <main id="app3"></main> </div>    <div class="tab-pane" id="four">  <main id="app4"></main></div>   <div class="tab-pane" id="five">  <main id="app5"></main></div>     <div class="tab-pane" id="six">  <main id="app6"></main></div>
+<main id="app0" ></main></div>   
+</div>
 
  
-
-
-
-
-
- 
-
-
-
-<!-- entertainmentvpn zero-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/entertainmentvpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app0" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- entertainmentx zero-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/entertainmentx") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app0" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 <!-- entertainment zero-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/entertainment") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app0" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- entertainmentmpd zero-->
 
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/entertainmentmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app0" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
+
  
  
 
 
- <!--moviesvpn  one-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/moviesvpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app1" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- moviesx one-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/moviesx") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app1" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
+ 
 
 <!-- movies one-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/movies") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app1" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- moviesmpd one-->
-
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/moviesmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app1" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 
 
@@ -202,47 +178,27 @@ body{width:100%;background:PapayaWhip;margin:0}
 
 <!--musicvpn  two-->
 
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/musicvpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app2" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- musicx two-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/musicx") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app2" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 <!-- music two-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/music") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app2" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- musicmpd two-->
 
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/musicmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app2" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 
 
 <!--kidsvpn  three-->
 
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/kidsvpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app3" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- kidsx three-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/kidsx") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app3" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
 <!-- kids three-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/kids") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app3" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- kidsmpd three-->
 
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/kidsmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app3" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 
 
 <!--newsvpn  four-->
 
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/newsvpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app4" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- newsx four-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/newsx") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app4" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 <!-- news four-->
 
@@ -250,69 +206,33 @@ body{width:100%;background:PapayaWhip;margin:0}
 
 <!-- newsmpd four-->
 
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/newsmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app4" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 
 
-<!--lifestylevpn  five-->
 
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/lifestylevpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app5" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- lifestylex five-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/lifestylex") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app5" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 <!-- lifestyle five-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/lifestyle") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app5" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- lifestylempd five-->
 
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/lifestylempd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app5" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-
-
-<!--bhaktivpn  six-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/bhaktivpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app6" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
-
-<!-- bhaktix six-->
-
- <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/bhaktix") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app6" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 <!-- bhakti six-->
 
  <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/bhakti") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p1'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p1?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app6" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
-<!-- bhaktimpd six-->
-
-<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/bhaktimpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app6" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
+<!-- vpnmpd -->
  
- 
+<script>function getData() { fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/vpnmpd").then(res => { return res.json(); }).then(json => { console.log(json.data); const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p4'  data-name='" +item.name+"'><a  target='frame' href='https://tv4live.github.io/p4?mpd="+item.id+"&keyId="+item.id1+"&key="+item.id2+"'><p>"+ item.name+"</p></a></img></div></div>"; }) .join(""); console.log(html);document.querySelector("#app7" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
+
+<!-- vpnmp4 -->
 
 
+ <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/vpnmp4") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p15'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p15?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app7" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
+<!-- vpn -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <script>function getData() {fetch("https://raw.githubusercontent.com/Shubhamkur/Iptv/refs/heads/main/vpn") .then(res => {return res.json(); })  .then(json => {console.log(json.data);const html  = json .map(function(item) { return  " <div align='center' class='rsz' data-group='p16'  data-name='"+item.name+"'><a  target='frame' href='https://tv4live.github.io/p16?url="+item.id+"'><p>"+item.name+"</p></a></div></div>"; }) .join(""); console.log(html);document.querySelector("#app7" ).insertAdjacentHTML("afterbegin", html); }) .catch(error => { console.log(error); });}getData();</script>
 
 
 <style>.content-table {              text-align: center;position: fixed;             color: #333;position: fixed;bottom:0px;bottom:0px ;text-align:center;background-color:gold; border-collapse: collapse; margin: 1px 0;  font-size: 0.9em;  min-width: 100%;  border-radius: 3px ;  overflow: hidden;  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);}.content-table thead tr {  background-color:gold;  color: #ffffff;  text-align: center;  font-weight: bold}.content-table th,.content-table td {color:#fff;  padding:  1px;border:1px solid gold;background:}.content-table tbody tr {  border: 1px solid #dddddd;}.content-table tbody tr:nth-of-type(even) {  background-color: #f3f3f3;}.content-table tbody tr:last-of-type {  border: px solid #009879;}.content-table tbody tr.active-row {  font-weight: bold;  color: #009879;}</style><table class="content-table">  <thead>     <tr>      <th width="30%"><a href="https://t.me/tvgotk"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgS2KS8R90zouZEqp4NV8v8mXnUaa0CH4ms-RUnJnRLmYj5zdegccxN10-YXkJArUDOzCjksz77YlETLC63edZYUaDyYBaMPWDVDuyDjYV5bhhhYa5FYgu2qHkd0FcCq-Au_2YXSYza4YGnv1WgRR2O_caQI8nR6SRPJFqKVQICOnjzWhsi3VWe5Nzjewg" width="90%" height="40px"></a></th>            <td><a href="https://t.me/tvgotk"><button><b>t.me/tvgotk</b> </button></a></td>            <th width="30%"><a href="https://t.me/tv4wap"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgdW6vop6CO-Sw5e7USP7uj_dCdoQJWSYALuTqDa0Kh5m7H0jl1rSMltPVtDrlKIWPxGe5HLwMd8z_TnDWYFB-ePgb_DbI5LJozDpyvP0L7sK-W422Cm02k3hzZ0XzNhYaJ2A80MT5l7nlebxLL16uFvTKSNRPNr3Ctb51dVMShgVNDsu5XHpCtdVSbW0g" width="90%" height="40px"></a></th>      <td><a href="https://t.me/tv4wap"> <button><b>t.me/tv4wap</b></button> </a></td> </tr></table>
