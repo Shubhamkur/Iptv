@@ -35,6 +35,32 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd","id1":"b994480f788d41ddbc805862ac469416","id2":"78a6a0fc1758483595da7113e58e4467","name":"SHORTSTV"}, 
 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
+"id1":"812411cba8bc42c79eb2b19cd78ad3f3",
+"id2":"468a0b8d3d5d42d8a5c41bb875390a74",
+"name":"ZEE ANMOL CINEMA"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+"id1":"43513b13f4b542e39c9265921dfc1726",
+"id2":"b0b2678bcd274c37b888a6c987d502ed",
+"name":"ZEE CINEMA"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
+"id1":"8dea532cabfe4f71ba20f62310e7949f",
+"id2":"7a214a974e4f4d1d9bb66364d5f0cb92",
+"name":"AND PICTURES"}, 
+
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd",
+"id1":"e61523260c614746b25b9a5523fe9a39",
+"id2":"72ddbf37f76f49acbb8e140e7279e7a1",
+"name":"ZEE BOLLYWOOD"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+"id1":"fbbfd9ce4bbe4d818b16df7dfe89f05b",
+"id2":"1e96d0f88ef740e982d6f6105721c8bc",
+"name":"Zee Bangla Cinema"}
+
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd","id1":"ed197e7253c04946903f03bad9afac91","id2":"99ebb8683ea74b70a9fda1cbdc2cc1b4","name":"KOREAN DRAMAS"}
 
 ]
