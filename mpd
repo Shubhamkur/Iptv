@@ -59,7 +59,22 @@
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
 "id1":"fbbfd9ce4bbe4d818b16df7dfe89f05b",
 "id2":"1e96d0f88ef740e982d6f6105721c8bc",
-"name":"Zee Bangla Cinema"}
+"name":"Zee Bangla Cinema"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd","id1":"86edec9e3b7d4042a4d4a1ca14f847ee","id2":"9def4315f0004019a3705bcb3cf30ca3","name":"ZOOM"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd","id1":"f0fb14eebe474a6ab74c8301d55a7224","id2":"f9f8b2e30704458b8db844a285ce32be","name":"ZING"}, 
+
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd","id1":"2a457a6a58184234ba9bfa6916ce8013","id2":"ef3dd80894774430a33ecbc9108e91d7","name":"MTVBEATS"}, 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd","id1":"c011525969e44b99a86059dbb3cdf4e8","id2":"6700a5d93203417b8585f7de7dd1a09b","name":"DISCOVERY TURBO"}, 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd","id1":"2828ea6f6a984505b0454da0c03f68b9","id2":"5d3b7195086544c2807aa8c1544e7379","name":"INVESTIGATION DISCOVERY"}, 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd","id1":"e48e7373d6be47ecab83a20849f6823e","id2":"513ce07a2ee24ffdbe667eff5a9d46a8","name":"TLC"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd","id1":"b70a8cf9450c4d6484b4ac4d3c6761c0","id2":"0908be844260409cbac180bf0181da40","name":"DISCOVERY CHANNEL"}, 
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd","id1":"601f58d4b7094d2baf78c85d1d9cb6c9","id2":"609e0cc03198455fa36fd2cc3e7f940d","name":"DISCOVERY KIDS"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd","id1":"ed197e7253c04946903f03bad9afac91","id2":"99ebb8683ea74b70a9fda1cbdc2cc1b4","name":"KOREAN DRAMAS"}
 
