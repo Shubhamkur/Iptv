@@ -3,13 +3,15 @@
 [
 
 
-{"id":"http://playout.rptv.online/ranglapunjab/tracks-v1a1/mono.m3u8", 
-"name":"Rangla punjab"}, 
+
 {"id":"http://88.212.15.19/live/test_disney_junior/playlist.m3u8", "name":"Disney junior"}, 
 
 {"id":"http://88.212.15.19/live/test_disney/playlist.m3u8", "name":"Disney Tv"}, 
 
-
+{"id":"http://212.102.60.231/DISNEY_XD/index.m3u8", 
+"name":"Disney XD"},
+{"id":"http://ares.mnet.mk/hls/mnet-kids.m3u8", 
+"name":"Mnet Kids"},
 {"id":"http://88.212.15.19/live/test_minimax/playlist.m3u8", "name":"MiniMax"}, 
 
 {"id":"http://88.212.15.19/live/test_nicktoons/playlist.m3u8", "name":"Nicktoons"}, 
@@ -19,10 +21,7 @@
 
 {"id":"http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8", "name":"Nickelodeon"}
 
-{"id":"http://212.102.60.231/DISNEY_XD/index.m3u8", 
-"name":"Disney XD"},
-{"id":"http://ares.mnet.mk/hls/mnet-kids.m3u8", 
-"name":"Mnet Kids"},
+
 {"id":"http://143.244.60.30/NICKELODEON/index.m3u8", 
 "name":"Nickelodeon"},
 {"id":"http://iptv.prosto.tv:7000/ch70/index.m3u8", 
@@ -33,6 +32,10 @@
 
 {"id":"http://cdn12.henico.net:8080/live/pravasipb/index.m3u8", 
 "name":"Pravasipb"},
+
+{"id":"http://playout.rptv.online/ranglapunjab/tracks-v1a1/mono.m3u8", 
+"name":"Rangla punjab"}, 
+
 {"id":"http://cdn12.henico.net:8080/live/wtdur/index.m3u8", 
 "name":"wtdur"}
 
