@@ -6,103 +6,82 @@
 
 
 
+
+
+
+
+
 [
 
-{"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8", 
-"name":"Arihant"},
+{"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8","name":"Arihant"},
 
-{"id":"https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8", 
-"name":"Anjan Tv"},
+{"id":"https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8","name":"Anjan Tv"},
 
-{"id":"htthttps://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
-"name":"B Tv"},
+{"id":"https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8","name":"B Tv"},
 
-{"id":"https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8", 
-"name":"Colors Bangla"},
+{"id":"https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8","name":"Colors Bangla"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8", 
-"name":"Colors Bangla"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8","name":"Colors Bangla"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8", 
-"name":"COLORS UK"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8","name":"COLORS UK"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8", 
-"name":"COLORS AU"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8","name":"COLORS AU"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyuk/master/chunklist.m3u8", 
-"name":"COLORS RISHTEY UK"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyuk/master/chunklist.m3u8","name" :"COLORS RISHTEY UK"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyau/master/chunklist.m3u8", 
-"name":"COLORS RISHTEY AU"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyau/master/chunklist.m3u8","name" :"COLORS RISHTEY AU"},
 
-{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8", 
-"name":"DD National"},
+{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8","name":"DD National"},
 
-{"id":"https://deshitv.deshitv24.net/live/myStream/playlist.m3u8", 
-"name":"Deshi Tv"},
+{"id":"https://deshitv.deshitv24.net/live/myStream/playlist.m3u8","name":"Deshi Tv"},
 
-{"id":"https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1", 
-"name":"Deepto Tv"},
+{"id":"https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1","name":"Deepto Tv"},
 
-{"id":"https://live-dangal.akamaized.net/liveabr/playlist.m3u8", 
-"name":"Dangal Tv"},
+{"id":"https://live-dangal.akamaized.net/liveabr/playlist.m3u8","name":"Dangal Tv"},
 
-{"id":"https://live-dangal2.akamaized.net/liveabr/playlist.m3u8", 
-"name":"Dangal 2"},
+{"id":"https://live-dangal2.akamaized.net/liveabr/playlist.m3u8","name":"Dangal 2"},
 
 {"id":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8","name":"Dabangg Tv"}, 
 
-{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/c6bb7ca2-3d87-4dac-89d8-648f7c5629aa/0.m3u8", 
-"name":"Dabangg Tv"},
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/c6bb7ca2-3d87-4dac-89d8-648f7c5629aa/0.m3u8", "name":"Dabangg Tv"},
 
 
 {"id":"https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8","name" :"Enter 10 Bangla"}, 
 
-{"id":"https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8", 
-"name":"Enter 10 Bangla"}, 
+{"id":"https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8","name":"Enter 10 Bangla"} , 
 
-{"id":"https://epiconvh.s.llnwi.net/epic/master.m3u8", 
-"name":"Epic Tv"},
+{"id":"https://epiconvh.s.llnwi.net/epic/master.m3u8","name":"Epic Tv"},
 
-{"id":"https://mytvbangla.com/0.m3u8", 
-"name":"My Tv"},
+{"id":"https://mytvbangla.com/0.m3u8","name":"My Tv"},
 
-{"id":"https://epiconvh.s.llnwi.net/nazara/master.m3u8", 
-"name":"Nazara Tv"},
+{"id":"https://epiconvh.s.llnwi.net/nazara/master.m3u8","name":"Nazara Tv"},
 
 
 
-{"id":"https://epiconvh.s.llnwi.net/ishaara/master.m3u8", 
-"name":"Ishaara Tv"},
+{"id":"https://epiconvh.s.llnwi.net/ishaara/master.m3u8","name":"Ishaara Tv"},
 
-{"id":"https://yuppftalive.akamaized.net/080823/pasand/playlist.m3u8", 
-"name":"Pasand Tv"},
+{"id":"https://yuppftalive.akamaized.net/080823/pasand/playlist.m3u8","name":"Pasand Tv"},
 
-{"id":"https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8", 
-"name":"Sony Kal"},
+{"id":"https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8","name":"Sony Kal"},
 
 
 {"id":"https://cdn-4.pishow.tv/live/1039/master.m3u8", 
 "name":"Ruposhi Bangla"}, 
-{"id":"https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8", 
-"name":"Sun Bangla"}, 
+
+{"id":"https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8","name":"Sun Bangla"}, 
 
 
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusau/master/chunklist.m3u8", 
-"name":"STAR PLUS"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusau/master/chunklist.m3u8","name":"STAR PLUS"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokau/master/chunklist.m3u8", 
-"name":"STAR BHARAT"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokau/master/chunklist.m3u8","name":"STAR BHARAT"},
 
-{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8", 
-"name":"STAR Jalsha"},
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8","name":"STAR Jalsha"},
 
 {"id":"http://smart.bengaldigital.live/Star-jalsha/index.m3u8", 
 "name":"Star Jalsha"},
 
-{"id":"https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8", 
-"name":"The Q"},
+{"id":"https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8","name":"The Q"},
 
 {"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusuk/master/chunklist.m3u8", 
 "name":"UTSAV PLUS"},
@@ -119,9 +98,13 @@
 {"id":"https://smart.bengaldigital.live/Zee-Bangla/index.m3u8", 
 "name":"Zee Bangla"},
 
-{"id":"https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8", 
-"name":"Zee Bangla"}
+{"id":"https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8", "name":"Zee Bangla"}
 ] 
+
+
+
+
+
 
 
 
