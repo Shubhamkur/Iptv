@@ -14,6 +14,24 @@
 {"id":"https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8", 
 "name":"Anjan Tv"},
 
+{"id":"https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8", 
+"name":"Colors Bangla"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8", 
+"name":"Colors Bangla"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8", 
+"name":"COLORS UK"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8", 
+"name":"COLORS AU"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyuk/master/chunklist.m3u8", 
+"name":"COLORS RISHTEY UK"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyau/master/chunklist.m3u8", 
+"name":"COLORS RISHTEY AU"},
+
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8", 
 "name":"DD National"},
 
@@ -57,11 +75,29 @@
 {"id":"https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8", 
 "name":"Sun Bangla"}, 
 
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusau/master/chunklist.m3u8", 
+"name":"STAR PLUS"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokau/master/chunklist.m3u8", 
+"name":"STAR BHARAT"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8", 
+"name":"STAR Jalsha"},
+
 {"id":"https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8", 
 "name":"The Q"},
 
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/starplusuk/master/chunklist.m3u8", 
+"name":"UTSAV PLUS"},
+
+{"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokuk/master/chunklist.m3u8", 
+"name":"UTSAV BHARAT"},
+
 {"id":"https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8",
-"name":"Zee One"}
+"name":"Zee One"}, 
+
+{"id":"https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8", 
+"name":"Zee Bangla"}
 ] 
 
 
