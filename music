@@ -91,6 +91,9 @@
 {"id":"http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8", 
 "name":"Mbangla tv"},
 
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8", 
+"name":"Mahua Play"},
+
 {"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8","name":"Maibolin"}, 
 
 {"id" :"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8","name":"Pitaara"}, 
