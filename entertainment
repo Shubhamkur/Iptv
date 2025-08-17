@@ -10,7 +10,6 @@
 
 
 
-
 [
 
 {"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8","name":"Arihant"},
@@ -32,6 +31,9 @@
 {"id":"https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyau/master/chunklist.m3u8","name" :"COLORS RISHTEY AU"},
 
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8","name":"DD National"},
+
+{"id":"https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8", 
+"name":"DD Bangla"},
 
 {"id":"https://deshitv.deshitv24.net/live/myStream/playlist.m3u8","name":"Deshi Tv"},
 
@@ -100,8 +102,6 @@
 
 {"id":"https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8", "name":"Zee Bangla"}
 ] 
-
-
 
 
 
