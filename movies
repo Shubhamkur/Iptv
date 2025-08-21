@@ -7,6 +7,8 @@
 
 [
 
+
+
 {"id":"https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8", 
 "name":"AN Bollywood"},
 
@@ -47,6 +49,9 @@
 
 {"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8","name":"Cinelife"},
 
+{"id":"https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8", 
+"name":"Dhamaka Movies"},
+
 {"id":"https://cdn-4.pishow.tv/live/241/master.m3u8", "name":"Enter 10 Bangla"}, 
 
 {"id":"https://cdn-2.pishow.tv/live/1461/1461_0.m3u8", 
@@ -74,6 +79,12 @@
 {"id":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8", 
 "name":"Movies Action"},
 
+{"id":"https://cdn-1.pishow.tv/live/1013/master.m3u8", 
+"name":"Manoranjan Tv"},
+
+{"id":"https://cdn-1.pishow.tv/live/1011/master.m3u8", 
+"name":"Manoranjan Grand"},
+
 {"id":"https://cdn-4.pishow.tv/live/233/master.m3u8", "name":"Oscer Movies"}, 
 
 {"id":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8", 
@@ -93,7 +104,8 @@
 
 {"id":"https://cdn-2.pishow.tv/live/231/master.m3u8", "name":"Wow Cinema"}, 
 
-
+{"id":"https://tvsen6.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.ts.m3u8", 
+"name":"Zee Cinema HD"},
 {"id":"https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8", 
 "name":"Zee Bangla Cinema"}
 ]
