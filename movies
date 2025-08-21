@@ -19,6 +19,9 @@
 {"id":"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8", 
 "name":"Bollywood HD"},
 
+{"id":"https://tvsen7.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8", 
+"name":"B4u Hitz"},
+
 {"id":"https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8", 
 "name":"B4u Kadak"},
 
@@ -27,7 +30,13 @@
 
 {"id":"https://cdn-2.pishow.tv/live/227/master.m3u8", "name":"B4u Kadak"}, 
 
+{"id":"https://tvsen6.aynaott.com/B4U_Kadak/tracks-v1a1/mono.ts.m3u8", 
+"name":"B4u Kadak"},
+
 {"id":"https://cdn-2.pishow.tv/live/419/master.m3u8", "name":"B4u Movies"}, 
+
+{"id":"https://tvsen7.aynaott.com/B4U_Movies_India/tracks-v1a1/mono.ts.m3u8", 
+"name":"B4u Movies"},
 
 {"id":"https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8", 
 "name":"B4u Movies"},
@@ -45,6 +54,9 @@
 
  {"id":"https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8", 
 "name":"Bhojpuri Cinema"},
+
+{"id":"https://cdn-4.pishow.tv/live/1033/master.m3u8", 
+"name":"Bhojpuri Movies"},
 
 
 {"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8","name":"Cinelife"},
@@ -76,8 +88,8 @@
 {"id":"https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
 "name":"Movie Sphereuk"}, 
 
-{"id":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8", 
-"name":"Movies Action"},
+{"id":"https://cdn-6.pishow.tv/live/10007/master.m3u8", 
+"name":"Maha Movies"},
 
 {"id":"https://cdn-1.pishow.tv/live/1013/master.m3u8", 
 "name":"Manoranjan Tv"},
@@ -89,6 +101,9 @@
 
 {"id":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8", 
 "name":"PLUS BANGLA"},
+
+{"id":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8", 
+"name":"Pitaara Movies"},
 
 {"id":"https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8", 
 "name":"Pitaara Comedy"},
