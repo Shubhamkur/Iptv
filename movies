@@ -112,6 +112,9 @@
 {"id":"https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8", 
 "name":"Pitaara Comedy"},
 
+{"id":"https://padmaonline.duckdns.org:8088/pcv/index.m3u8", 
+"name":"Pcv Movies"},
+
 {"id":"https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8", 
 "name":"Shemaroo Bollywood"},
 
