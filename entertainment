@@ -11,7 +11,7 @@
 
 
 [
-
+{"id":"https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8","name":"Prarthana"},{"id":"https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8","name":"OTV"},{"id":"https://livetv.tarangplus.in/tarangmusic-origin/live_720p/chunks.m3u8","name":"Tarang Music"},{"id":"https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8","name":"Tarang odia"},{"id":"https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8","name":"Alankar odia"},
 {"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8","name":"Arihant"},
 
 {"id":"https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8","name":"Anjan Tv"},
