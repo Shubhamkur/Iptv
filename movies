@@ -7,10 +7,7 @@
 
 [
 
-{"id":"https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8", 
-"name":"Zee Cinema HD"},
-{"id":"https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8", 
-"name":"Zee Bollymovie"},
+
 {"id":"https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8", 
 "name":"AN Bollywood"},
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8", 
@@ -132,6 +129,11 @@
 "name":"Zee Cinema HD"},
 {"id":"https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8", 
 "name":"Zee Bangla Cinema"}, 
+
+{"id":"https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8", 
+"name":"Zee Cinema HD"},
+{"id":"https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8", 
+"name":"Zee Bollymovie"},
 
 {"id":"https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8", 
 "name":"ZB Cinema"}
