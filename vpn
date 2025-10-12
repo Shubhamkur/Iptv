@@ -78,14 +78,19 @@
 "name":"Star Utsav Movies"},
 
 {"id":"http://51.15.7.9:3141/sethd/index.m3u8", 
-"name":"SONY Tv"},
+"name":"SONY TV"},
+
+{"id":"http://217.20.112.199/sethd/index.m3u8", 
+"name":"SONY TV"},
 
 {"id":"http://195.181.169.162/SONY_HD/index.m3u8?token=test", 
 "name":"Sony HD"},
 
+{"id":"http://195.181.169.162/SONY_SAB_HD/index.m3u8?token=test", 
+"name":"SONY SAB HD"},
+
 {"id":"http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test", 
 "name":"SONY MAX HD"},
-
 
 {"id":"http://51.15.7.9:3141/max/index.m3u8", 
 "name":"Sony Max"},
