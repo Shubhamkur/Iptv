@@ -1,4 +1,19 @@
 [
 {"id":"https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8", 
-"name":"AND Tv"}
+"name":"AND Tv"}, 
+{"id":"https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8", 
+"name":"ETV PLUS"}, 
+{"id":"https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8", 
+"name":"ETV LIFE"}, 
+{"id":"https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8", 
+"name":"ETV AP"}, 
+{"id":"https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8", 
+"name":"ETV TS"}, 
+{"id":"https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8", 
+"name":"ETV HD"}, 
+{"id":"https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8", 
+"name":"ETV CINEMA"}, 
+{"id":"https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8", 
+"name":"ETV ABHIRUCHI"}
+
 ] 
