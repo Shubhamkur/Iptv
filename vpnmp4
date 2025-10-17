@@ -1,6 +1,15 @@
 [
 {"id":"https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8", 
 "name":"AND Tv"}, 
+
+{"id":"https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8","name":"OTV"},
+{"id":"https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8","name":"Prarthana"},
+{"id":"https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8","name":"Tarang odia"},
+{"id":"https://livetv.tarangplus.in/tarangmusic-origin/live_720p/chunks.m3u8","name":"Tarang Music"},
+{"id":"https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8","name":"Alankar odia"},
+{"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8","name":"Arihant"},
+
+
 {"id":"https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8", 
 "name":"ETV PLUS"}, 
 {"id":"https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8", 
