@@ -3,6 +3,9 @@
 [
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd","id1":"26df86eeebb04d7fbc45c948f76e81fd","id2":"5f3a23f1a73c4c96ababce5fffe7b06b","name":"AND TV"}, 
 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd","id1":"67d18634ccb04875875c60fb8d9caaba","id2":"99a66471c09e4b8a8dc39a0de6803f75","name":"AND TV"}, 
+
+
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
 "id1":"8dea532cabfe4f71ba20f62310e7949f",
 "id2":"7a214a974e4f4d1d9bb66364d5f0cb92",
