@@ -7,6 +7,11 @@
 "id2":"7a214a974e4f4d1d9bb66364d5f0cb92",
 "name":"AND PICTURES"}, 
 
+{"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
+"id1":"ad3cb242cde3b687e2398cd21eb9bd10",
+"id2":"6ed9b4976a854a289ce62cac957a55d5",
+"name":"AND PICTURES"}, 
+
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd","id1":"b70a8cf9450c4d6484b4ac4d3c6761c0","id2":"0908be844260409cbac180bf0181da40","name":"DISCOVERY CHANNEL"}, 
