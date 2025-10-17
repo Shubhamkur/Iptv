@@ -14,7 +14,14 @@
 {"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
 "id1":"ad3cb242cde3b687e2398cd21eb9bd10",
 "id2":"6ed9b4976a854a289ce62cac957a55d5",
-"name":"AND PICTURES"}, 
+"name":"COLORS HD"}, 
+
+{"id":"https://abkmmckaaaaaaaamgezsz3r2egph7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd","id1":"be9caaa813c5305e761c66ac63645901","id2":"3d40f2990ec5362ca5be3a3c9bb8f8b4","name":"Disney Jr"}, 
+
+{"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd",
+"id1":"b1119e01b67a19a3eb37c41140c3fa10",
+"id2":"5124996ebcfee077b4aacec307f38d0f",
+"name":"CBeebies"},
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
 
@@ -65,7 +72,7 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd","id1":"2a8d6c938ea647248f7a10eedc39f097","id2":"7d81feb84ed84bd88fdc5ca9de3c16da","name" :"Zee Marathi HD"}, 
 
-{"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd","id1":"db96483900762e233aa7830457a0d310","id2":"20f392e5a1021be68fc32bcdb9ec3ad4","name" :"Zee Marathi HD"}, 
+ 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
 "id1":"812411cba8bc42c79eb2b19cd78ad3f3",
 "id2":"468a0b8d3d5d42d8a5c41bb875390a74",
@@ -76,7 +83,7 @@
 "id2":"b0b2678bcd274c37b888a6c987d502ed",
 "name":"ZEE CINEMA"}, 
 
-
+{"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd","id1":"db96483900762e233aa7830457a0d310","id2":"20f392e5a1021be68fc32bcdb9ec3ad4","name" :"Zee Cinema HD"},
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd",
 "id1":"e61523260c614746b25b9a5523fe9a39",
