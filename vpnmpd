@@ -21,7 +21,7 @@
 "id2":"6ed9b4976a854a289ce62cac957a55d5",
 "name":"COLORS HD"}, 
 
-{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd,
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd",
 "id1":"1a05bebf706408431a390c3f9f40f410",
 "id2":"89c5ff9f8e65c7fe966afbd2f9128e5f",
 "name":"Cartoon Network"},
@@ -33,6 +33,9 @@
 
 {"id":"https://abkmmckaaaaaaaamgezsz3r2egph7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd","id1":"be9caaa813c5305e761c66ac63645901","id2":"3d40f2990ec5362ca5be3a3c9bb8f8b4","name":"Disney Jr"}, 
 
+
+
+
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd","id1":"b70a8cf9450c4d6484b4ac4d3c6761c0","id2":"0908be844260409cbac180bf0181da40","name":"DISCOVERY CHANNEL"}, 
@@ -41,6 +44,8 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd","id1":"601f58d4b7094d2baf78c85d1d9cb6c9","id2":"609e0cc03198455fa36fd2cc3e7f940d","name":"DISCOVERY KIDS"}, 
 
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd","id1":"3feecc36930732cbb69306dc687c6f10","id2":"3458265f7530bf1fef204ca8cb4689db","name":"History HD"}, 
+
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd","id1":"2828ea6f6a984505b0454da0c03f68b9","id2":"5d3b7195086544c2807aa8c1544e7379","name":"INVESTIGATION DISCOVERY"}, 
 
@@ -48,7 +53,12 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd","id1":"2a457a6a58184234ba9bfa6916ce8013","id2":"ef3dd80894774430a33ecbc9108e91d7","name":"MTVBEATS"}, 
 
-{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd,"id1":"fa65220c9f76e424173899df533a6d10","id2":"b4abbee95b69b3e80a0d141272c870db","name":"Nick Jr"}, 
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd","id1":"fa65220c9f76e424173899df533a6d10","id2":"b4abbee95b69b3e80a0d141272c870db","name":"Nick Jr"}, 
+
+
+
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd","id1":"d8520e96a1283ab6e5be538474bfa810","id2":"bda5f7bbc1e44096f779a0619fe9881f","name":"NICKELODEON HD"}, 
+
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd","id1":"b994480f788d41ddbc805862ac469416","id2":"78a6a0fc1758483595da7113e58e4467","name":"SHORTSTV"}, 
 
