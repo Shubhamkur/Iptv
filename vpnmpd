@@ -1,6 +1,7 @@
 
 
 [
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd","id1":"26df86eeebb04d7fbc45c948f76e81fd","id2":"5f3a23f1a73c4c96ababce5fffe7b06b","name":"AND TV"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
 "id1":"8dea532cabfe4f71ba20f62310e7949f",
@@ -35,7 +36,7 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd","id1" :"ed068cf84f0640ccbc7c0e395c0a272e","id2":"bb722190f2bb446391020411a7d0828b","name":"ZEE TV"}, 
 
-{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd","id1":"26df86eeebb04d7fbc45c948f76e81fd","id2":"5f3a23f1a73c4c96ababce5fffe7b06b","name":"AND TV"}, 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd"id1" :"65c3633157574361b191059e46e72968","id2":"78450b11381340c297d96c13183d3744","name":"ZEE TV"}, 
 
  
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd","id1":"4023613457774cbeb71a62c339970e63","id2":"1c3e9fce5f014542be9cd1f749181204","name":"ZEE ANMOL"}, 
