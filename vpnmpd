@@ -16,6 +16,10 @@
 "id2":"6807bd09bda34ada83152908192af6d6",
 "name":"AND PICTURES"},
 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd","id1":"df81f15150f74c799fdde64ef49dfb75","id2":"05794a012ae74d77953f2b9fae6804c7","name":"Animal Planet HD"}, 
+
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd","id1":"dbf62ff0804bc5b8d523ef009d786310","id2":"bb1bdb27cc5fe1ec637d257999344cc3","name":"BBC Earth"}, 
+
 {"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
 "id1":"ad3cb242cde3b687e2398cd21eb9bd10",
 "id2":"6ed9b4976a854a289ce62cac957a55d5",
@@ -33,12 +37,15 @@
 
 {"id":"https://abkmmckaaaaaaaamgezsz3r2egph7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd","id1":"be9caaa813c5305e761c66ac63645901","id2":"3d40f2990ec5362ca5be3a3c9bb8f8b4","name":"Disney Jr"}, 
 
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd","id1"3ff02fcd80c2e3230c52ae70fe903410","id2":"c3a58ec867cc25829e1fbe8938442553","name":"Discovery Asia HD"}, 
 
 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd","id1":"b70a8cf9450c4d6484b4ac4d3c6761c0","id2":"0908be844260409cbac180bf0181da40","name":"DISCOVERY CHANNEL"}, 
+
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd","id1":"276767a578aae2eacb284247ccd9eb10","id2":"03ef88df1a47669e5459e105e3b535b1","name":"Discovery Channel HD"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd","id1":"c011525969e44b99a86059dbb3cdf4e8","id2":"6700a5d93203417b8585f7de7dd1a09b","name":"DISCOVERY TURBO"}, 
 
