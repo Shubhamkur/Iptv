@@ -9,7 +9,12 @@
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
 "id1":"8dea532cabfe4f71ba20f62310e7949f",
 "id2":"7a214a974e4f4d1d9bb66364d5f0cb92",
-"name":"AND PICTURES"}, 
+"name":"AND PICTURES"},
+
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
+"id1":"de8045e9f0fb4d03845dcc4a8bd7712a",
+"id2":"6807bd09bda34ada83152908192af6d6",
+"name":"AND PICTURES"},
 
 {"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
 "id1":"ad3cb242cde3b687e2398cd21eb9bd10",
@@ -39,6 +44,8 @@
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd","id1":"2a457a6a58184234ba9bfa6916ce8013","id2":"ef3dd80894774430a33ecbc9108e91d7","name":"MTVBEATS"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd","id1":"b994480f788d41ddbc805862ac469416","id2":"78a6a0fc1758483595da7113e58e4467","name":"SHORTSTV"}, 
+
+{"id":"https://delta45tatasky.akamaized.net/out/i/1633.mpd","id1":"6f715e0e16cf4b20bc94f6f85023974b","id2":"516785ded0aee1dafae22e2874528b2a","name":"STAR GOLD"},  
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd","id1":"e48e7373d6be47ecab83a20849f6823e","id2":"513ce07a2ee24ffdbe667eff5a9d46a8","name":"TLC"}, 
 
