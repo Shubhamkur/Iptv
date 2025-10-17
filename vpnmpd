@@ -21,12 +21,17 @@
 "id2":"6ed9b4976a854a289ce62cac957a55d5",
 "name":"COLORS HD"}, 
 
-{"id":"https://abkmmckaaaaaaaamgezsz3r2egph7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd","id1":"be9caaa813c5305e761c66ac63645901","id2":"3d40f2990ec5362ca5be3a3c9bb8f8b4","name":"Disney Jr"}, 
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd,
+"id1":"1a05bebf706408431a390c3f9f40f410",
+"id2":"89c5ff9f8e65c7fe966afbd2f9128e5f",
+"name":"Cartoon Network"},
 
 {"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd",
 "id1":"b1119e01b67a19a3eb37c41140c3fa10",
 "id2":"5124996ebcfee077b4aacec307f38d0f",
 "name":"CBeebies"},
+
+{"id":"https://abkmmckaaaaaaaamgezsz3r2egph7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd","id1":"be9caaa813c5305e761c66ac63645901","id2":"3d40f2990ec5362ca5be3a3c9bb8f8b4","name":"Disney Jr"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd","id1":"5458f45efedb4d6f8aa6ac76c85b621b","id2":"dbf8a0a306a64525ba3012fd225370c0","name":"DISCOVERY SCIENCE"}, 
 
@@ -42,6 +47,8 @@
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd","id1":"ed197e7253c04946903f03bad9afac91","id2":"99ebb8683ea74b70a9fda1cbdc2cc1b4","name":"KOREAN DRAMAS"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd","id1":"2a457a6a58184234ba9bfa6916ce8013","id2":"ef3dd80894774430a33ecbc9108e91d7","name":"MTVBEATS"}, 
+
+{"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd,"id1":"fa65220c9f76e424173899df533a6d10","id2":"b4abbee95b69b3e80a0d141272c870db","name":"Nick Jr"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd","id1":"b994480f788d41ddbc805862ac469416","id2":"78a6a0fc1758483595da7113e58e4467","name":"SHORTSTV"}, 
 
