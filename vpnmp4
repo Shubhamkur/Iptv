@@ -23,6 +23,10 @@
 {"id":"https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8", 
 "name":"ETV CINEMA"}, 
 {"id":"https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8", 
-"name":"ETV ABHIRUCHI"}
+"name":"ETV ABHIRUCHI"}, 
+{"id":"https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", 
+"name":"STAR Tamil"}, 
+{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8", 
+"name":"Raj Tv"}
 
 ] 
