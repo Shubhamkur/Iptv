@@ -70,6 +70,10 @@
 
 {"id":"https://cdn-4.pishow.tv/live/241/master.m3u8", "name":"Enter 10 Bangla"}, 
 
+{"id":"https://epiconvh.akamaized.net/live/filamchi/master.m3u8", 
+"name":"Filamchi Bhojpuri"},
+
+
 {"id":"https://cdn-2.pishow.tv/live/1461/1461_0.m3u8", 
 "name":"Goldmines 1"},
 
