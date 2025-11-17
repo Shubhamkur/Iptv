@@ -18,6 +18,8 @@
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd","id1":"df81f15150f74c799fdde64ef49dfb75","id2":"05794a012ae74d77953f2b9fae6804c7","name":"Animal Planet HD"}, 
 
+{"id":"https://live2.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd","id1":"bb0c6b6f0e2c873a174e63e16f3a3f62","id2":"a8c4fae3ea8023b51707e470ec336209","name":"B4U MOVIES"},
+
 {"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd","id1":"dbf62ff0804bc5b8d523ef009d786310","id2":"bb1bdb27cc5fe1ec637d257999344cc3","name":"BBC Earth"}, 
 
 {"id":"https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
@@ -50,6 +52,8 @@
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd","id1":"c011525969e44b99a86059dbb3cdf4e8","id2":"6700a5d93203417b8585f7de7dd1a09b","name":"DISCOVERY TURBO"}, 
 
 {"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd","id1":"601f58d4b7094d2baf78c85d1d9cb6c9","id2":"609e0cc03198455fa36fd2cc3e7f940d","name":"DISCOVERY KIDS"}, 
+
+{"id":"https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd","id1":"eefc4c6db6d961885314bb5c58fd226b","id2":"da646d01cc7a852b093854299dbc7b87","name":"FILMAX"},
 
 {"id":"http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd","id1":"3feecc36930732cbb69306dc687c6f10","id2":"3458265f7530bf1fef204ca8cb4689db","name":"History HD"}, 
 
