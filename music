@@ -62,7 +62,8 @@
 
 {"id":"https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8", 
 "name":"B4u Music "},
-
+{"id":"https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8", 
+"name":"Dil se"},
 
 {"id":"https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8", 
 "name":"Desi Channel"},
