@@ -3,21 +3,7 @@
 [
 
 
-{"id":"http://195.181.169.162/AND_TV_HD/index.m3u8?token=test", 
-"name":"AND Tv"},
 
-{"id":"http://195.181.169.162/AND_PICTURES_HD/index.m3u8?token=test", 
-"name":"AND PICTURES"},
-
-
-{"id":"http://51.15.7.9:3141/colorshd/index.m3u8", 
-"name":"Colors HD"},
-
-{"id":"http://195.181.169.162/COLORS_HD/index.m3u8?token=test", 
-"name":"Colors HD"},
-
-{"id":"http://51.15.7.9:3141/rishtey/index.m3u8", 
-"name":"Colors Rishtey"},
 
 
 
@@ -26,14 +12,12 @@
 
 {"id":"http://88.212.15.19/live/test_disney/playlist.m3u8", "name":"Disney Tv"}, 
 
-{"id":"http://212.102.60.231/DISNEY_XD/index.m3u8", 
-"name":"Disney XD"},
+
 
 {"id":"http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8", 
 "name":"Goldmines"},
 
-{"id":"http://212.102.60.231/HBO/index.m3u8", 
-"name":"HBO"},
+
 
 {"id":"http://ares.mnet.mk/hls/mnet-kids.m3u8", 
 "name":"Mnet Kids"},
@@ -62,54 +46,19 @@
 {"id":"http://playout.rptv.online/ranglapunjab/tracks-v1a1/mono.m3u8", 
 "name":"Rangla punjab"}, 
 
-{"id":"http://51.15.7.9:3141/starplus/index.m3u8", 
-"name":"Star Plus"},
 
-{"id":"http://51.15.7.9:3141/starbharat/index.m3u8", 
-"name":"Star Bharat"},
-
-{"id":"http://51.15.7.9:3141/stargold/index.m3u8", 
-"name":"Star Gold"},
-
-{"id":"http://51.15.7.9:3141/stargold2/index.m3u8", 
-"name":"Star Gold2"},
-
-{"id":"http://51.15.7.9:3141/starutsavmovies/index.m3u8", 
-"name":"Star Utsav Movies"},
-
-{"id":"http://51.15.7.9:3141/sethd/index.m3u8", 
-"name":"SONY TV"},
 
 {"id":"http://217.20.112.199/sethd/index.m3u8", 
 "name":"SONY TV"},
 
-{"id":"http://195.181.169.162/SONY_HD/index.m3u8?token=test", 
-"name":"Sony HD"},
 
-{"id":"http://195.181.169.162/SONY_SAB_HD/index.m3u8?token=test", 
-"name":"SONY SAB HD"},
 
-{"id":"http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test", 
-"name":"SONY MAX HD"},
 
-{"id":"http://51.15.7.9:3141/max/index.m3u8", 
-"name":"Sony Max"},
-
-{"id":"http://51.15.7.9:3141/max2/index.m3u8", 
-"name":"Sony Max2"},
 
 {"id":"http://cdn12.henico.net:8080/live/wtdur/index.m3u8", 
-"name":"wtdur"}, 
-
-{"id":"http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test", 
-"name":"Zee Tv HD"},
+"name":"wtdur"}
 
 
-{"id":"http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test", 
-"name":"Zee Cinema HD"},
-
-{"id":"http://51.15.7.9:3141/zeecinema/index.m3u8", 
-"name":"Zee Cinema"}
 
 ]
 
