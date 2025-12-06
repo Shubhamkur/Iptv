@@ -2,6 +2,10 @@
 {"id":"https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8", 
 "name":"AND Tv"}, 
 
+{"id":"https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8", 
+"name":"AND FLIX"}, 
+
+
 {"id":"https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8","name":"OTV"},
 {"id":"https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8","name":"Prarthana"},
 {"id":"https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8","name":"Tarang odia"},
