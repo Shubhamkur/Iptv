@@ -4,6 +4,16 @@
 
 {"id":"https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8", 
 "name":"AND FLIX"}, 
+{"id": "https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8", "name": "Smil:Ddindiahd"},
+{"id": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8", "name": "Vglive Sk 860950"},
+{"id": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8", "name": "Colorsbanglahd"},
+{"id":"https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", 
+"name":"STAR Tamil"}, 
+{"id":"https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8", 
+"name":"Sun Tv"},
+
+
+
 
 
 {"id":"https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8","name":"OTV"},
@@ -13,36 +23,23 @@
 {"id":"https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8","name":"Alankar odia"},
 {"id":"https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8","name":"Arihant"},
 
+
+
+
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8", "name":"DD National"},
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/", "name":"DD News (1080p)"},
-{"id":"https://cdn-1.pishow.tv/live/10/master.m3u8", "name":"DD Bharati (720p)"},
-{"id":"https://cdn-4.pishow.tv/live/35/master.m3u8", "name":"DD Bihar (720p)"},
-{"id":"https://cdn-7.pishow.tv/live/1161/1161_3.m3u8", "name":"DD sports"},
-{"id":"https://cdn-6.pishow.tv/live/13/master.m3u8", "name":"DD Sports (720p)"},
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8", "name":"DD sports"},
 {"id":"https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8", "name":"DD Bangla"},
-
-{"id":"https://cdn-1.pishow.tv/live/15/master.m3u8", "name":"DD Chhattisgarh (720p)"}
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/", "name":"DD Haryana"}
 ,
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/", "name":"DD Arun Prabha (360p)"},
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/", "name":"DD Assam"},
-
-
-{"id":"https://cdn-6.pishow.tv/live/16/master.m3u8", "name":"DD Kashir (720p)"},
-{"id":"https://cdn-6.pishow.tv/live/9/master.m3u8", "name":"DD Kisan (720p)"},
-{"id":"https://cdn-1.pishow.tv/live/31/master.m3u8", "name":"DD Madhya Pradesh (720p)"}
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/", "name":"DD Manipur (504p)"},
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/", "name":"DD Meghalaya (504p)"},
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/", "name":"DD Nagaland (504p)"},
-
-{"id":"https://cdn-1.pishow.tv/live/34/master.m3u8", "name":"DD Rajasthan (720p)"}
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/", "name":"DD Sahyadri"},
 {"id":"https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/", "name":"DD Saptagiri"},
 {"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/", "name":"DD Tripura"},
-{"id":"https://cdn-4.pishow.tv/live/8/master.m3u8", "name":"DD Urdu (720p)"},
-{"id":"https://cdn-1.pishow.tv/live/36/master.m3u8", "name":"DD Uttar Pradesh (720p)"},
-{"id":"https://cdn-1.pishow.tv/live/17/master.m3u8", "name":"DD Uttarakhand (720p)"},
 
 
 {"id":"https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8", 
@@ -60,13 +57,11 @@
 {"id":"https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8", 
 "name":"ETV ABHIRUCHI"}, 
 
-{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8", 
-"name":"Raj Tv"},
 
-{"id":"https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", 
-"name":"STAR Tamil"}, 
-{"id":"https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8", 
-"name":"Sun Tv"}
+
+{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8", 
+"name":"Raj Tv"}
+
 
 
 ] 
