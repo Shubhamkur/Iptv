@@ -6,6 +6,30 @@
 
 
 
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/ArihantTV/playlist.m3u8", "name": "Arihanttv"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/Darshan24/playlist.m3u8", "name": "Darshan24"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/PeaceOfMind/playlist.m3u8", "name": "Peaceofmind"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/Jinwani/playlist.m3u8", "name": "Jinwani"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/BhaktiSagar2/playlist.m3u8", "name": "Bhaktisagar2"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/GoodnewsTV/playlist.m3u8", "name": "Goodnewstv"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/NTVBhakthi/playlist.m3u8", "name": "Ntvbhakthi"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/E24/playlist.m3u8", "name": "E24"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/PTCChakDe/playlist.m3u8", "name": "Ptcchakde"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/9XTashan/playlist.m3u8", "name": "9X Tashan"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/SangeetMarathi/playlist.m3u8", "name": "Sangeetmarathi"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/BflixMovies/playlist.m3u8", "name": "Bflixmovies"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8", "name": "Mahamovies"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/OscarMoviesBhojpuri/playlist.m3u8", "name": "Oscarmoviesbhojpuri"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/FaktMarathi/playlist.m3u8", "name": "Faktmarathi"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/FirstIndiaNews/playlist.m3u8", "name": "Firstindianews"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/SuryaSamachar/playlist.m3u8", "name": "Suryasamachar"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/Nepal1TV/playlist.m3u8", "name": "Nepal1Tv"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/GulistanNews/playlist.m3u8", "name": "Gulistannews"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/MH1News/playlist.m3u8", "name": "Mh1News"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/PTCNews/playlist.m3u8", "name": "Ptcnews"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/PTCPunjabi/playlist.m3u8", "name": "Ptcpunjabi"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/AsianetME/playlist.m3u8", "name": "Asianetme"},
+{"id": "http://longstream-06.ajaah.com/PlayBoxTV/ChardiklaTimeTV/playlist.m3u8", "name": "Chardiklatimetv"},
 
 
 {"id":"http://88.212.15.19/live/test_disney_junior/playlist.m3u8", "name":"Disney junior"}, 
