@@ -1,6 +1,11 @@
 [
 {"id":"https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8", 
 "name":"AND Tv"}, 
+{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8", 
+"name":"Raj Tv"},
+
+
+
 
 {"id":"https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8", 
 "name":"AND FLIX"}, 
@@ -9,10 +14,32 @@
 {"id": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8", "name": "Colorsbanglahd"},
 {"id":"https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", 
 "name":"STAR Tamil"}, 
-{"id":"https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8", 
-"name":"Sun Tv"},
-
-
+{"id": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8", "name": "Puthiya Thalaimurai"},
+{"id": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8", "name": "Polimer News"},
+{"id": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8", "name": "News7 Tamil"},
+{"id": "https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8", "name": "Thanthi TV"},
+{"id": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8", "name": "Sirippoli TV"},
+{"id": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8", "name": "Kalaignar TV"},
+{"id": "https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8", "name": "Shakthi TV"},
+{"id": "https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", "name": "Star Tamil"},
+{"id": "https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8", "name": "Thalaa TV"},
+{"id": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8", "name": "Murasu"},
+{"id": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8", "name": "Isai Aruvi"},
+{"id": "https://edge2-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8", "name": "Vasantham TV"},
+{"id": "https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8", "name": "&Flix"},
+{"id": "https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr", "name": "TNL TV"},
+{"id": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8", "name": "TV One"},
+{"id": "https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8", "name": "ITN Srilanka"},
+{"id": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8", "name": "Channel Eye"},
+{"id": "https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr", "name": "Siyatha TV"},
+{"id": "https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr", "name": "Swarnawahini"},
+{"id": "https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr", "name": "Sirasa TV"},
+{"id": "https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8", "name": "Hiru TV"},
+{"id": "https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8", "name": "TV Derana"},
+{"id": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr", "name": "Rupavahini TV"},
+{"id": "https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8", "name": "Charana TV"},
+{"id": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8", "name": "STAR Tamil"},
+{"id": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8", "name": "Sun Tv"},
 
 
 
@@ -55,12 +82,11 @@
 {"id":"https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8", 
 "name":"ETV CINEMA"}, 
 {"id":"https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8", 
-"name":"ETV ABHIRUCHI"}, 
+"name":"ETV ABHIRUCHI"}
 
 
 
-{"id":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8", 
-"name":"Raj Tv"}
+
 
 
 
